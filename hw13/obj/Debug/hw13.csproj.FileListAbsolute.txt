@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\hw13\hw13\bin\Debug\hw13.exe.config
+C:\Users\Shipa\source\repos\hw13\hw13\bin\Debug\hw13.exe
+C:\Users\Shipa\source\repos\hw13\hw13\bin\Debug\hw13.pdb
+C:\Users\Shipa\source\repos\hw13\hw13\obj\Debug\hw13.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hw13\hw13\obj\Debug\hw13.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hw13\hw13\obj\Debug\hw13.exe
+C:\Users\Shipa\source\repos\hw13\hw13\obj\Debug\hw13.pdb
